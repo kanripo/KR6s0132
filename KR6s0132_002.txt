@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:18:57.455200
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:45
 #+TITLE: 新編諸宗教藏總錄
 #+PROPERTY: CBETA_ID T55n2184
 #+PROPERTY: ID KR6s0132
@@ -17,7 +17,7 @@
 ¶
 高麗沙門義天錄¶
 
-海東有本見行錄中
+* 海東有本見行錄中
 :PROPERTIES:
 :head: 海東有本見行錄中
 :END:
