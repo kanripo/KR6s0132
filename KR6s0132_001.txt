@@ -1,24 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:18:57.418132
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:45
 #+TITLE: 新編諸宗教藏總錄
 #+PROPERTY: CBETA_ID T55n2184
 #+PROPERTY: ID KR6s0132
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 55, No. 2184
 #+PROPERTY: VOL 55
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0132_T_000-1165b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6s0132_T_001-1165b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2184¶
+No. 2184¶
 
-新編教藏總錄流衍序
-:PROPERTIES:
-:head: 新編教藏總錄流衍序
-:END:
-¶
+* 新編教藏總錄流衍序¶
 ¶
 
 夫明月之珠。焰光之璧。納櫃而弗庸。則有那¶
@@ -45,11 +41,7 @@ No.2184¶
 ¶
 ¶
 
-新編諸宗教藏總錄序
-:PROPERTIES:
-:head: 新編諸宗教藏總錄序
-:END:
-¶
+* 新編諸宗教藏總錄序¶
 ¶
 
 漢明夢感之後。葉書繼至。翻譯流通者。無代¶
@@ -75,16 +67,11 @@ No.2184¶
 義天敘。¶
 ¶
 ¶
-
- 新編諸宗教藏總錄卷第一¶
+新編諸宗教藏總錄卷第一¶
 ¶
 高麗沙門義天錄(此是草本俟後重廣如有漏略觀者恕之)¶
 
-海東有本見行錄上
-:PROPERTIES:
-:head: 海東有本見行錄上
-:END:
-¶
+* 海東有本見行錄上¶
 
   
   * 大華嚴經¶
